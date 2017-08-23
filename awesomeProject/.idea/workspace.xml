@@ -1,0 +1,723 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b937ba31-d4f0-46b5-8214-f04603a9e5d4" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="gorm.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SQL/Gorm/gorm.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="21" column="31" lean-forward="false" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="31" />
+              <folding>
+                <element signature="e#14#132#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="rowSQL.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SQL/Row/rowSQL.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1215">
+              <caret line="244" column="69" lean-forward="false" selection-start-line="244" selection-start-column="69" selection-end-line="244" selection-end-column="88" />
+              <folding>
+                <element signature="e#14#99#0" expanded="true" />
+                <element signature="n#!!block;n#query#0" expanded="false" />
+                <element signature="n#!!block;n#addUser#0" expanded="false" />
+                <element signature="n#!!block;n#addUser2#0" expanded="false" />
+                <element signature="n#!!block;n#addCar#0" expanded="false" />
+                <element signature="n#!!block;n#getUserCars#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.go" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/FirstSteps/main.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="440">
+              <caret line="193" column="34" lean-forward="false" selection-start-line="192" selection-start-column="4" selection-end-line="193" selection-end-column="34" />
+              <folding>
+                <element signature="n#!!block;n#readFile#0" expanded="false" />
+                <element signature="n#!!block;n#declareVariables#0" expanded="false" />
+                <element signature="n#!!block;n#input#0" expanded="false" />
+                <element signature="n#!!block;n#forIfFunc#0" expanded="false" />
+                <element signature="n#!!block;n#switchFunc#0" expanded="false" />
+                <element signature="n#!!block;n#containerMap#0" expanded="false" />
+                <element signature="n#!!block;n#containerWithMoreInfo#0" expanded="false" />
+                <element signature="n#!!block;n#pointers#0" expanded="false" />
+                <element signature="n#!!block;n#genRandomArray#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tarantool.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SQL/Tarantool/tarantool.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="21" column="17" lean-forward="false" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+              <folding>
+                <element signature="e#14#130#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>data</find>
+      <find>read</find>
+      <find>exec</find>
+      <find>addUser</find>
+      <find>time</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/db.go" />
+        <option value="$PROJECT_DIR$/db/db.go" />
+        <option value="$PROJECT_DIR$/main.go" />
+        <option value="$PROJECT_DIR$/reflection.go" />
+        <option value="$PROJECT_DIR$/codegen.go" />
+        <option value="$PROJECT_DIR$/tcp.go" />
+        <option value="$PROJECT_DIR$/httpServer.go" />
+        <option value="$PROJECT_DIR$/goRoutine.go" />
+        <option value="$PROJECT_DIR$/FirstSteps/main.go" />
+        <option value="$PROJECT_DIR$/Servers/httpServer.go" />
+        <option value="$PROJECT_DIR$/Servers/json1.go" />
+        <option value="$PROJECT_DIR$/Servers/JSON/json1.go" />
+        <option value="$PROJECT_DIR$/Servers/JSON/simple1.go" />
+        <option value="$PROJECT_DIR$/Servers/simple1.go" />
+        <option value="$PROJECT_DIR$/JSON/test.json" />
+        <option value="$PROJECT_DIR$/JSON/05_easyjson.go" />
+        <option value="$PROJECT_DIR$/JSON/01_simple.go" />
+        <option value="$PROJECT_DIR$/JSON/02_embeding.go" />
+        <option value="$PROJECT_DIR$/JSON/03_types.go" />
+        <option value="$PROJECT_DIR$/JSON/EasyJSON/05_easyjson.go" />
+        <option value="$PROJECT_DIR$/SQL/rowSQL.go" />
+        <option value="$PROJECT_DIR$/SQL/gorm.go" />
+        <option value="$PROJECT_DIR$/SQL/Gorm/gorm.go" />
+        <option value="$PROJECT_DIR$/SQL/Tarantool/tarantool.go" />
+        <option value="$PROJECT_DIR$/SQL/Row/rowSQL.go" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="39" />
+    <option name="y" value="22" />
+    <option name="width" value="1241" />
+    <option name="height" value="778" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="awesomeProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="awesomeProject" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="awesomeProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="awesomeProject" type="462c0819:PsiDirectoryNode" />
+              <item name="FirstSteps" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/JSON/ThirdMethod" />
+      <recent name="$PROJECT_DIR$/JSON/SecondMethod" />
+      <recent name="$PROJECT_DIR$/JSON/FirstMethod" />
+      <recent name="$PROJECT_DIR$/JSON/EasyJSON" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/SQL/Gorm" />
+      <recent name="$PROJECT_DIR$/SQL/Row" />
+      <recent name="$PROJECT_DIR$/JSON/EasyJSON" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/Servers/HTTP" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Go Single File.go run gorm.go">
+    <configuration name="Unnamed" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="awesomeProject" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <kind value="FILE" />
+      <package value="awesomeProject" />
+    </configuration>
+    <configuration name="go run 01_simple.go" type="GoRunFileConfiguration" factoryName="Go Single File" temporary="true">
+      <module name="awesomeProject" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/JSON/01_simple.go" />
+    </configuration>
+    <configuration name="go run 05_easyjson.go" type="GoRunFileConfiguration" factoryName="Go Single File" temporary="true">
+      <module name="awesomeProject" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/JSON/05_easyjson.go" />
+    </configuration>
+    <configuration name="go run goRoutine.go" type="GoRunFileConfiguration" factoryName="Go Single File" temporary="true">
+      <module name="awesomeProject" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/goRoutine.go" />
+    </configuration>
+    <configuration name="go run gorm.go" type="GoRunFileConfiguration" factoryName="Go Single File" temporary="true">
+      <module name="awesomeProject" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/SQL/Gorm/gorm.go" />
+    </configuration>
+    <configuration name="go run reflection.go" type="GoRunFileConfiguration" factoryName="Go Single File" temporary="true">
+      <module name="awesomeProject" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/reflection.go" />
+    </configuration>
+    <list size="6">
+      <item index="0" class="java.lang.String" itemvalue="Go Application.Unnamed" />
+      <item index="1" class="java.lang.String" itemvalue="Go Single File.go run reflection.go" />
+      <item index="2" class="java.lang.String" itemvalue="Go Single File.go run goRoutine.go" />
+      <item index="3" class="java.lang.String" itemvalue="Go Single File.go run 05_easyjson.go" />
+      <item index="4" class="java.lang.String" itemvalue="Go Single File.go run 01_simple.go" />
+      <item index="5" class="java.lang.String" itemvalue="Go Single File.go run gorm.go" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Go Single File.go run gorm.go" />
+        <item index="1" class="java.lang.String" itemvalue="Go Single File.go run 01_simple.go" />
+        <item index="2" class="java.lang.String" itemvalue="Go Single File.go run 05_easyjson.go" />
+        <item index="3" class="java.lang.String" itemvalue="Go Single File.go run goRoutine.go" />
+        <item index="4" class="java.lang.String" itemvalue="Go Single File.go run reflection.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="39" y="22" width="1241" height="778" extended-state="0" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14762302" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32956383" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3480055" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30949107" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32737276" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/SQL/Row/rowSQL.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1215">
+          <caret line="244" column="69" lean-forward="false" selection-start-line="244" selection-start-column="69" selection-end-line="244" selection-end-column="88" />
+          <folding>
+            <element signature="e#14#99#0" expanded="true" />
+            <element signature="n#!!block;n#query#0" expanded="false" />
+            <element signature="n#!!block;n#addUser#0" expanded="false" />
+            <element signature="n#!!block;n#addUser2#0" expanded="false" />
+            <element signature="n#!!block;n#addCar#0" expanded="false" />
+            <element signature="n#!!block;n#getUserCars#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstSteps/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!block;n#readFile#0" expanded="false" />
+            <element signature="n#!!block;n#declareVariables#0" expanded="false" />
+            <element signature="n#!!block;n#input#0" expanded="false" />
+            <element signature="n#!!block;n#forIfFunc#0" expanded="false" />
+            <element signature="n#!!block;n#switchFunc#0" expanded="false" />
+            <element signature="n#!!block;n#containerMap#0" expanded="false" />
+            <element signature="n#!!block;n#containerWithMoreInfo#0" expanded="false" />
+            <element signature="n#!!block;n#pointers#0" expanded="false" />
+            <element signature="n#!!block;n#genRandomArray#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstSteps/codegen.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1755">
+          <caret line="123" column="0" lean-forward="false" selection-start-line="123" selection-start-column="0" selection-end-line="123" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Servers/HTTP/httpServer.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="57" column="19" lean-forward="false" selection-start-line="57" selection-start-column="9" selection-end-line="57" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstSteps/goRoutine.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="13" column="19" lean-forward="true" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstSteps/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!block;n#readFile#0" expanded="false" />
+            <element signature="n#!!block;n#declareVariables#0" expanded="false" />
+            <element signature="n#!!block;n#input#0" expanded="false" />
+            <element signature="n#!!block;n#forIfFunc#0" expanded="false" />
+            <element signature="n#!!block;n#switchFunc#0" expanded="false" />
+            <element signature="n#!!block;n#containerMap#0" expanded="false" />
+            <element signature="n#!!block;n#containerWithMoreInfo#0" expanded="false" />
+            <element signature="n#!!block;n#pointers#0" expanded="false" />
+            <element signature="n#!!block;n#genRandomArray#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Servers/HTTP/httpServer.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="855">
+          <caret line="57" column="19" lean-forward="false" selection-start-line="57" selection-start-column="9" selection-end-line="57" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstSteps/reflection.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1275">
+          <caret line="91" column="1" lean-forward="false" selection-start-line="91" selection-start-column="1" selection-end-line="91" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstSteps/codegen.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1755">
+          <caret line="123" column="0" lean-forward="false" selection-start-line="123" selection-start-column="0" selection-end-line="123" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstSteps/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!block;n#readFile#0" expanded="false" />
+            <element signature="n#!!block;n#declareVariables#0" expanded="false" />
+            <element signature="n#!!block;n#input#0" expanded="false" />
+            <element signature="n#!!block;n#forIfFunc#0" expanded="false" />
+            <element signature="n#!!block;n#switchFunc#0" expanded="false" />
+            <element signature="n#!!block;n#containerMap#0" expanded="false" />
+            <element signature="n#!!block;n#containerWithMoreInfo#0" expanded="false" />
+            <element signature="n#!!block;n#pointers#0" expanded="false" />
+            <element signature="n#!!block;n#genRandomArray#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstSteps/reflection.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1275">
+          <caret line="91" column="1" lean-forward="false" selection-start-line="91" selection-start-column="1" selection-end-line="91" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstSteps/codegen.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1755">
+          <caret line="123" column="0" lean-forward="false" selection-start-line="123" selection-start-column="0" selection-end-line="123" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Servers/HTTP/httpServer.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="57" column="19" lean-forward="false" selection-start-line="57" selection-start-column="9" selection-end-line="57" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstSteps/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!block;n#readFile#0" expanded="false" />
+            <element signature="n#!!block;n#declareVariables#0" expanded="false" />
+            <element signature="n#!!block;n#input#0" expanded="false" />
+            <element signature="n#!!block;n#forIfFunc#0" expanded="false" />
+            <element signature="n#!!block;n#switchFunc#0" expanded="false" />
+            <element signature="n#!!block;n#containerMap#0" expanded="false" />
+            <element signature="n#!!block;n#containerWithMoreInfo#0" expanded="false" />
+            <element signature="n#!!block;n#pointers#0" expanded="false" />
+            <element signature="n#!!block;n#genRandomArray#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstSteps/reflection.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1365">
+          <caret line="91" column="1" lean-forward="false" selection-start-line="91" selection-start-column="1" selection-end-line="91" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstSteps/codegen.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1755">
+          <caret line="123" column="0" lean-forward="true" selection-start-line="123" selection-start-column="0" selection-end-line="123" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstSteps/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!block;n#readFile#0" expanded="false" />
+            <element signature="n#!!block;n#declareVariables#0" expanded="false" />
+            <element signature="n#!!block;n#input#0" expanded="false" />
+            <element signature="n#!!block;n#forIfFunc#0" expanded="false" />
+            <element signature="n#!!block;n#switchFunc#0" expanded="false" />
+            <element signature="n#!!block;n#containerMap#0" expanded="false" />
+            <element signature="n#!!block;n#containerWithMoreInfo#0" expanded="false" />
+            <element signature="n#!!block;n#pointers#0" expanded="false" />
+            <element signature="n#!!block;n#genRandomArray#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstSteps/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!block;n#readFile#0" expanded="false" />
+            <element signature="n#!!block;n#declareVariables#0" expanded="false" />
+            <element signature="n#!!block;n#input#0" expanded="false" />
+            <element signature="n#!!block;n#forIfFunc#0" expanded="false" />
+            <element signature="n#!!block;n#switchFunc#0" expanded="false" />
+            <element signature="n#!!block;n#containerMap#0" expanded="false" />
+            <element signature="n#!!block;n#containerWithMoreInfo#0" expanded="false" />
+            <element signature="n#!!block;n#pointers#0" expanded="false" />
+            <element signature="n#!!block;n#genRandomArray#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstSteps/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!block;n#readFile#0" expanded="false" />
+            <element signature="n#!!block;n#declareVariables#0" expanded="false" />
+            <element signature="n#!!block;n#input#0" expanded="false" />
+            <element signature="n#!!block;n#forIfFunc#0" expanded="false" />
+            <element signature="n#!!block;n#switchFunc#0" expanded="false" />
+            <element signature="n#!!block;n#containerMap#0" expanded="false" />
+            <element signature="n#!!block;n#containerWithMoreInfo#0" expanded="false" />
+            <element signature="n#!!block;n#pointers#0" expanded="false" />
+            <element signature="n#!!block;n#genRandomArray#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstSteps/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!block;n#readFile#0" expanded="false" />
+            <element signature="n#!!block;n#declareVariables#0" expanded="false" />
+            <element signature="n#!!block;n#input#0" expanded="false" />
+            <element signature="n#!!block;n#forIfFunc#0" expanded="false" />
+            <element signature="n#!!block;n#switchFunc#0" expanded="false" />
+            <element signature="n#!!block;n#containerMap#0" expanded="false" />
+            <element signature="n#!!block;n#containerWithMoreInfo#0" expanded="false" />
+            <element signature="n#!!block;n#pointers#0" expanded="false" />
+            <element signature="n#!!block;n#genRandomArray#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/db.go" />
+    <entry file="file://$PROJECT_DIR$/tcp.go" />
+    <entry file="file://$PROJECT_DIR$/Servers/HTTP/httpServer.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="12" lean-forward="false" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstSteps/reflection.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="39" column="5" lean-forward="false" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSON/test.json" />
+    <entry file="file://$PROJECT_DIR$/Servers/simple1.go" />
+    <entry file="file://$PROJECT_DIR$/JSON/json1.go" />
+    <entry file="file://$PROJECT_DIR$/JSON/01_lib.go" />
+    <entry file="file://$PROJECT_DIR$/JSON/02_embeding.go" />
+    <entry file="file://$PROJECT_DIR$/JSON/03_types.go" />
+    <entry file="file://$PROJECT_DIR$/JSON/05_easyjson.go" />
+    <entry file="file://$PROJECT_DIR$/JSON/EasyJSON/test/05_easyjson.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSON/FirstMethod/01_lib.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSON/SecondMethod/01_lib.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSON/SecondMethod/02_embeding.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSON/01_simple.go" />
+    <entry file="file://$PROJECT_DIR$/JSON/ThirdMethod/01_lib.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSON/ThirdMethod/03_types.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSON/EasyJSON/01_lib.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSON/FirstMethod/01_simple.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="7" lean-forward="false" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSON/EasyJSON/05_easyjson.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="1" lean-forward="false" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSON/EasyJSON/test.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSON/FirstMethod/test.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSON/SecondMethod/test.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JSON/ThirdMethod/test.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstSteps/codegen.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1755">
+          <caret line="123" column="0" lean-forward="false" selection-start-line="123" selection-start-column="0" selection-end-line="123" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SQL/Tarantool/tarantool.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="21" column="17" lean-forward="false" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+          <folding>
+            <element signature="e#14#130#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SQL/Gorm/gorm.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="21" column="31" lean-forward="false" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="31" />
+          <folding>
+            <element signature="e#14#132#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstSteps/goRoutine.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="13" column="19" lean-forward="false" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SQL/Row/rowSQL.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1215">
+          <caret line="244" column="69" lean-forward="false" selection-start-line="244" selection-start-column="69" selection-end-line="244" selection-end-column="88" />
+          <folding>
+            <element signature="e#14#99#0" expanded="true" />
+            <element signature="n#!!block;n#query#0" expanded="false" />
+            <element signature="n#!!block;n#addUser#0" expanded="false" />
+            <element signature="n#!!block;n#addUser2#0" expanded="false" />
+            <element signature="n#!!block;n#addCar#0" expanded="false" />
+            <element signature="n#!!block;n#getUserCars#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FirstSteps/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="193" column="34" lean-forward="false" selection-start-line="192" selection-start-column="4" selection-end-line="193" selection-end-column="34" />
+          <folding>
+            <element signature="n#!!block;n#readFile#0" expanded="false" />
+            <element signature="n#!!block;n#declareVariables#0" expanded="false" />
+            <element signature="n#!!block;n#input#0" expanded="false" />
+            <element signature="n#!!block;n#forIfFunc#0" expanded="false" />
+            <element signature="n#!!block;n#switchFunc#0" expanded="false" />
+            <element signature="n#!!block;n#containerMap#0" expanded="false" />
+            <element signature="n#!!block;n#containerWithMoreInfo#0" expanded="false" />
+            <element signature="n#!!block;n#pointers#0" expanded="false" />
+            <element signature="n#!!block;n#genRandomArray#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
