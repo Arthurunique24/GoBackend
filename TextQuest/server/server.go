@@ -6,8 +6,8 @@ import (
 	"io"
 	"fmt"
 	"encoding/json"
-	"../server/workers"
-	"../game"
+	"TextQuest/server/workers"
+	"TextQuest/game"
 //	"../handlers"
 //	_"github.com/lib/pq"
 )
@@ -49,16 +49,9 @@ func testHandler(rw http.ResponseWriter, req *http.Request) {
 		var gs gameSession
 		gs.parse(req.Body)
 		var gsAnswer gameSession
-		if gs.Status == "start" {
-			gsAnswer.Status = "Ok"
-			_, gsAnswer.Body.Answer = game.Start()
-		} else if gs.Status == "turn" {
-			status := false
-			hasKey := false
-			var message string
-			status, hasKey, gsAnswer.Body.Answer, message = game.Turn(gs.Body.Turn)
-			gsAnswer.Status = fmt.Sprintf("finished: %t, hasKey: %t, message: %s", status, hasKey, message)
-		}
+		gsAnswer.Status = "Ok"
+		gsAnswer.Body.Turn = gs.Body.Turn
+		_, gsAnswer.Body.Answer = game.Start()
 		err := json.NewEncoder(rw).Encode(gsAnswer)
 		return err
 	}, requestWaitInQueueTimeout)
@@ -78,8 +71,6 @@ func (session *gameSession) parse(body io.ReadCloser) error {
 }
 
 func RunHTTPServer(addr string) error {
-	//http.HandleFunc("/signup", handlers.SignUp)
-	//http.HandleFunc("/signin", handlers.SignIn)
 	http.HandleFunc("/hello", rootHandler)
 	http.HandleFunc("/test", testHandler)
 	return http.ListenAndServe(addr, nil)
